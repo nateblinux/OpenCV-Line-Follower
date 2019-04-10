@@ -2,5 +2,7 @@
 currently incomplete
 
 Compile by running:
+
 cmake . 
+
 make
